@@ -4,7 +4,7 @@ Welcome to Sonic Adventure! This game is built using Kaplay, providing a thrilli
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Installation](#installation)
+- [Preview](#preview)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
 - [License](#license)
@@ -12,8 +12,8 @@ Welcome to Sonic Adventure! This game is built using Kaplay, providing a thrilli
 ## Introduction
 Sonic Adventure is an exciting game where players try to survive using sonic.
 
-## Installation
-No need for instalation
+## Preview
+You can see a preview at: https://mohammad-marghoob.github.io/sonic_game/
 
-## Installation
+## How to Play
 You can use "space", "Lclick" or "Touch" to jump the obstacles.
